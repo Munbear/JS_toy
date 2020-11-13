@@ -46,6 +46,7 @@ body {
 
 h1 {
     text-align: center;
+    color:#424242;
 }
 
 h4 {
@@ -54,6 +55,7 @@ h4 {
 
 ul {
     text-align: center;
+    color: #424242;
 }
 
 .js-toDoForm {
