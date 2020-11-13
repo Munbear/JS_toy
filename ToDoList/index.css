@@ -1,6 +1,6 @@
 body {
     background-color: #6d89a6;
-    align-self: center;
+    /*align-self: center;*/
 }
 
 .bth {
@@ -42,3 +42,21 @@ body {
     z-index: -1;
     animation: fadeIn 0.5s linear;
 }
+
+
+h1 {
+    text-align: center;
+}
+
+h4 {
+    text-align: center;
+}
+
+ul {
+    text-align: center;
+}
+
+.js-toDoForm {
+    text-align: center;
+}
+
